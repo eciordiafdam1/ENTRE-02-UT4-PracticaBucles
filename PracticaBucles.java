@@ -31,70 +31,70 @@ public class PracticaBucles {
      *   Utiliza solo bucles while
      */
     public void generarNumeros(int n)   {
-       //TODO
+       numero (-1000,5000);
 
     }
 
-    /**
-     *  Devuelve true si numero es impar, false en otro caso
-     *  Hazlo sin utilizar if
-     */
-    public boolean esImpar(int numero)   {
-        //TODO
+    // /**
+     // *  Devuelve true si numero es impar, false en otro caso
+     // *  Hazlo sin utilizar if
+     // */
+    // public boolean esImpar(int numero)   {
+        // //TODO
         
         
-        return  false;
-    }
+        // return  false;
+    // }
 
-    /**
-     *  Dado un nº genera y devuelve otro nuevo 
-     *  con las mismas cifras y en el mismo orden pero sin 
-     *  los 0
-     *  Ej - si numero = 2040 devuelve  24, si numero = 1009 devuelve  19
-     *  si numero = 3000 devuelve 3
-     *   
-     *   
-     */
-    public int obtenerNumeroSinCeros(int numero)   {
-        //TODO
+    // /**
+     // *  Dado un nº genera y devuelve otro nuevo 
+     // *  con las mismas cifras y en el mismo orden pero sin 
+     // *  los 0
+     // *  Ej - si numero = 2040 devuelve  24, si numero = 1009 devuelve  19
+     // *  si numero = 3000 devuelve 3
+     // *   
+     // *   
+     // */
+    // public int obtenerNumeroSinCeros(int numero)   {
+        // //TODO
         
         
-        return 0;
-    }
+        // return 0;
+    // }
 
-    /**
-     *  Borrar la pantalla
-     *
-     */
-    public void borrarPantalla()    {
-        System.out.println('\u000C');
-    }
+    // /**
+     // *  Borrar la pantalla
+     // *
+     // */
+    // public void borrarPantalla()    {
+        // System.out.println('\u000C');
+    // }
 
-    /**
-     *  
-     *  Dibuja la letra N (ver figura en el enunciado)
-     *  Con bucles for
-     *  
-     *  Hay que usar el método escribirCaracter()
-     *  
-     *  
-     *   
-     */
-    public void escribirLetraN(int altura)    {
-       //TODO
+    // /**
+     // *  
+     // *  Dibuja la letra N (ver figura en el enunciado)
+     // *  Con bucles for
+     // *  
+     // *  Hay que usar el método escribirCaracter()
+     // *  
+     // *  
+     // *   
+     // */
+    // public void escribirLetraN(int altura)    {
+       // //TODO
 
-    }
+    // }
 
-    /**
-     *  escribe n veces el caracter  indicado en la misma línea
-     *  con bucles for
-     */
-    private void escribirCaracter(char caracter, int n)    {
-       //TODO
+    // /**
+     // *  escribe n veces el caracter  indicado en la misma línea
+     // *  con bucles for
+     // */
+    // private void escribirCaracter(char caracter, int n)    {
+       // //TODO
        
        
        
        
-    }
+    // }
 
-}
+// }
