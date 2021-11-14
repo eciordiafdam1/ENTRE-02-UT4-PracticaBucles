@@ -60,28 +60,28 @@ public class PracticaBucles {
         return 0;
     }
 
-    // /**
-     // *  Borrar la pantalla
-     // *
-     // */
-    // public void borrarPantalla()    {
-        // System.out.println('\u000C');
-    // }
+    /**
+     *  Borrar la pantalla
+     *
+     */
+    public void borrarPantalla()    {
+        System.out.println('\u000C');
+    }
+    
+    /**
+     *  
+     *  Dibuja la letra N (ver figura en el enunciado)
+     *  Con bucles for
+     *  
+     *  Hay que usar el método escribirCaracter()
+     *  
+     *  
+     *   
+     */
+    public void escribirLetraN(int altura)    {
+       escribirN = altura>2;
 
-    // /**
-     // *  
-     // *  Dibuja la letra N (ver figura en el enunciado)
-     // *  Con bucles for
-     // *  
-     // *  Hay que usar el método escribirCaracter()
-     // *  
-     // *  
-     // *   
-     // */
-    // public void escribirLetraN(int altura)    {
-       // //TODO
-
-    // }
+    }
 
     // /**
      // *  escribe n veces el caracter  indicado en la misma línea
