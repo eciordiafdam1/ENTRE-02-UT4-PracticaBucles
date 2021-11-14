@@ -45,22 +45,20 @@ public class PracticaBucles {
         break;
         return false;
     }
-
-    // /**
-     // *  Dado un nº genera y devuelve otro nuevo 
-     // *  con las mismas cifras y en el mismo orden pero sin 
-     // *  los 0
-     // *  Ej - si numero = 2040 devuelve  24, si numero = 1009 devuelve  19
-     // *  si numero = 3000 devuelve 3
-     // *   
-     // *   
-     // */
-    // public int obtenerNumeroSinCeros(int numero)   {
-        // //TODO
-        
-        
-        // return 0;
-    // }
+    
+    /**
+     *  Dado un nº genera y devuelve otro nuevo 
+     *  con las mismas cifras y en el mismo orden pero sin 
+     *  los 0
+     *  Ej - si numero = 2040 devuelve  24, si numero = 1009 devuelve  19
+     *  si numero = 3000 devuelve 3
+     *   
+     *   
+     */
+    public int obtenerNumeroSinCeros(int numero)   {
+        numero = numeroNuevo;
+        return 0;
+    }
 
     // /**
      // *  Borrar la pantalla
