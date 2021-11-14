@@ -35,16 +35,16 @@ public class PracticaBucles {
 
     }
 
-    // /**
-     // *  Devuelve true si numero es impar, false en otro caso
-     // *  Hazlo sin utilizar if
-     // */
-    // public boolean esImpar(int numero)   {
-        // //TODO
-        
-        
-        // return  false;
-    // }
+    /**
+     *  Devuelve true si numero es impar, false en otro caso
+     *  Hazlo sin utilizar if
+     */
+    public boolean esImpar(int numero) {
+        switch(impar true)
+        CaseImpar;
+        break;
+        return false;
+    }
 
     // /**
      // *  Dado un nº genera y devuelve otro nuevo 
