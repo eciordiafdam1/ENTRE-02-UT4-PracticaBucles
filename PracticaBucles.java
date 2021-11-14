@@ -83,16 +83,16 @@ public class PracticaBucles {
 
     }
 
-    // /**
-     // *  escribe n veces el caracter  indicado en la misma línea
-     // *  con bucles for
-     // */
-    // private void escribirCaracter(char caracter, int n)    {
-       // //TODO
+    /**
+     *  escribe n veces el caracter  indicado en la misma línea
+     *  con bucles for
+     */
+    private void escribirCaracter(char caracter, int n)    {
+       
+       caracter = Nveces;
        
        
        
-       
-    // }
+    }
 
-// }
+}
